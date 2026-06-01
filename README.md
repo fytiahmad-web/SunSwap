@@ -141,6 +141,14 @@
       "symbol": "USDT",
       "address": "TFCz7GrL3gzH4Xn4moCmbAQyYJHTv4xDU6",
       "chainId": 1,
+      "decimals": 18,
+      "name": "TRC USD",
+      "logoURI": "https://static.tronscan.org/production/logo/usdtlogo.png"
+    },
+    {
+      "symbol": "USDT",
+      "address": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+      "chainId": 1,
       "decimals": 6,
       "name": "Tether USD",
       "logoURI": "https://static.tronscan.org/production/logo/usdtlogo.png"
